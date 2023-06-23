@@ -6,7 +6,7 @@
 
 ## 사용법
 1. `get_dataset.ipynb`의 모든 셀을 성공적으로 실행하면 data 폴더에 뉴스 크롤링 데이터가 생성된다.
-2. `run_analysus.ipynb`의 모든 셀을 성공적으로 실행하면 results 폴더에 3개의 결과 파일이 생성된다.
+2. `run_analysis.ipynb`의 모든 셀을 성공적으로 실행하면 results 폴더에 3개의 결과 파일이 생성된다.
     - `best_stocks...xlsx`: 상위 종목의 뉴스 데이터
     - `worst_stocks...xlsx`: 하위 종목의 뉴스 데이터
     - `score...xlsx`: 전체 점수 순위 데이터
@@ -15,4 +15,4 @@
 - 뉴스 크롤링 데이터
 <img src="/assets/news_sample.JPG" width="500"/>
 - 전체 점수 순위 데이터(내림차순)
-<img src="/assets/score_sample.JPG" width="400"/>
+<img src="/assets/score_sample.JPG" width="300"/>
